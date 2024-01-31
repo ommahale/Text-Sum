@@ -1,0 +1,3 @@
+[submodule "english-text-summarizer"]
+	path = english-text-summarizer
+	url = https://github.com/Kundan1804/english-text-summarizer.git
